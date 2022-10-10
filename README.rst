@@ -17,7 +17,8 @@ Repository layout
 Prerequisites
 -------------
 
-All artwork is produced using Inkscape_.
+* Inkscape_ to view the SVG files
+* The `IBM Plex font`_ (used in the designs)
 
 .. _Apache Netbeans project: https://netbeans.apache.org/
 .. _COPYRIGHT: COPYRIGHT
@@ -25,3 +26,4 @@ All artwork is produced using Inkscape_.
 .. _source-material: source-material
 .. _proposals: proposals
 .. _Inkscape: https://inkscape.org/
+.. _IBM Plex font: https://github.com/IBM/plex
