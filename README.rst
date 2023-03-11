@@ -1,10 +1,10 @@
-Apache Netbeans swag proposals
+Apache NetBeans swag proposals
 ==============================
 
 Summary
 -------
 
-This is a repository holding designs for `Apache Netbeans project`_-related swag. The repository is
+This is a repository holding designs for `Apache NetBeans project`_-related swag. The repository is
 licensed using the Apache License version 2 (see the COPYING_ and COPYRIGHT_ as to match the logo
 and trademark notices of the ASF.
 
@@ -20,7 +20,7 @@ Prerequisites
 * Inkscape_ to view the SVG files
 * The `IBM Plex font`_ (used in the designs)
 
-.. _Apache Netbeans project: https://netbeans.apache.org/
+.. _Apache NetBeans project: https://netbeans.apache.org/
 .. _COPYRIGHT: COPYRIGHT
 .. _COPYING: COPYING
 .. _source-material: source-material
